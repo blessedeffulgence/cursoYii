@@ -71,9 +71,9 @@ return array(
 		// uncomment the following to use a MySQL database
 		
 		'db'=>array(
-			'connectionString' => 'pgsql:host=playuela.mpcomunas.gob.ve;dbname=curso_yii',
+			'connectionString' => 'pgsql:host=localhost;dbname=curso_yii',
 			'emulatePrepare' => true,
-			'username' => 'user_curso_yii',
+			'username' => 'usuario',
 			'password' => '123456',
 			'charset' => 'utf8',
 		),
